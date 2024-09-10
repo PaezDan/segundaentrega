@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "category": "soccer",
+      "licence": "Adidas",
+      "name": "Adidas Official Match Ball",
+      "description": "Balón oficial de la Liga de Campeones UEFA 2024. Alta durabilidad y diseño aerodinámico.",
+      "img": {
+        "front": "/soccer/adidas-ball-front.webp",
+        "back": "/soccer/adidas-ball-back.webp"
+      },
+      "sku": "SCR001001",
+      "price": 999.99,
+      "dues": 6,
+      "stock": 15,
+      "sells": 23
+    },
+    {
+      "id": 2,
+      "category": "soccer",
+      "licence": "Nike",
+      "name": "Nike Mercurial Vapor 14 Elite",
+      "description": "Botines de fútbol Nike Mercurial Vapor 14, diseñados para mayor velocidad y control en el campo.",
+      "img": {
+        "front": "/soccer/nike-mercurial-front.webp",
+        "back": "/soccer/nike-mercurial-back.webp"
+      },
+      "sku": "SCR001002",
+      "price": 1399.99,
+      "dues": 6,
+      "stock": 10,
+      "sells": 20
+    },
+    {
+      "id": 3,
+      "category": "soccer",
+      "licence": "Puma",
+      "name": "Puma Future Z 1.3 FG",
+      "description": "Botines de fútbol Puma Future Z con ajuste adaptativo y mayor soporte para movimientos ágiles.",
+      "img": {
+        "front": "/soccer/puma-future-front.webp",
+        "back": "/soccer/puma-future-back.webp"
+      },
+      "sku": "SCR001003",
+      "price": 1299.99,
+      "dues": 6,
+      "stock": 12,
+      "sells": 15
+    },
+    {
+      "id": 4,
+      "category": "basketball",
+      "licence": "Nike",
+      "name": "Nike LeBron 18",
+      "description": "Zapatillas de baloncesto Nike LeBron 18 con máxima amortiguación y estabilidad para jugadores de alto rendimiento.",
+      "img": {
+        "front": "/basketball/nike-lebron-front.webp",
+        "back": "/basketball/nike-lebron-back.webp"
+      },
+      "sku": "BKB001004",
+      "price": 1599.99,
+      "dues": 6,
+      "stock": 8,
+      "sells": 25
+    },
+    {
+      "id": 5,
+      "category": "basketball",
+      "licence": "Spalding",
+      "name": "Spalding NBA Official Game Ball",
+      "description": "Balón oficial de la NBA, utilizado en los partidos de la liga. Fabricado con cuero premium.",
+      "img": {
+        "front": "/basketball/spalding-nba-front.webp",
+        "back": "/basketball/spalding-nba-back.webp"
+      },
+      "sku": "BKB001005",
+      "price": 1999.99,
+      "dues": 6,
+      "stock": 10,
+      "sells": 18
+    },
+    {
+      "id": 6,
+      "category": "basketball",
+      "licence": "Under Armour",
+      "name": "Under Armour Curry 8",
+      "description": "Zapatillas de baloncesto Under Armour diseñadas en colaboración con Stephen Curry, con soporte y tracción mejorados.",
+      "img": {
+        "front": "/basketball/curry-8-front.webp",
+        "back": "/basketball/curry-8-back.webp"
+      },
+      "sku": "BKB001006",
+      "price": 1499.99,
+      "dues": 3,
+      "stock": 12,
+      "sells": 22
+    },
+    {
+      "id": 7,
+      "category": "running",
+      "licence": "Asics",
+      "name": "Asics Gel Kayano 28",
+      "description": "Zapatillas de running Asics Gel Kayano 28 con soporte mejorado y amortiguación de gel para largas distancias.",
+      "img": {
+        "front": "/running/asics-kayano-front.webp",
+        "back": "/running/asics-kayano-back.webp"
+      },
+      "sku": "RNG001007",
+      "price": 1399.99,
+      "dues": 6,
+      "stock": 18,
+      "sells": 35
+    },
+    {
+      "id": 8,
+      "category": "running",
+      "licence": "Nike",
+      "name": "Nike Air Zoom Pegasus 38",
+      "description": "Zapatillas de running Nike Air Zoom Pegasus 38, diseñadas para entrenamientos diarios con una sensación de ligereza.",
+      "img": {
+        "front": "/running/nike-pegasus-front.webp",
+        "back": "/running/nike-pegasus-back.webp"
+      },
+      "sku": "RNG001008",
+      "price": 1199.99,
+      "dues": 3,
+      "stock": 15,
+      "sells": 28
+    },
+    {
+      "id": 9,
+      "category": "running",
+      "licence": "New Balance",
+      "name": "New Balance Fresh Foam 1080v11",
+      "description": "Zapatillas de running New Balance con espuma Fresh Foam para una mayor comodidad en largas distancias.",
+      "img": {
+        "front": "/running/nb-1080-front.webp",
+        "back": "/running/nb-1080-back.webp"
+      },
+      "sku": "RNG001009",
+      "price": 1499.99,
+      "dues": 6,
+      "stock": 20,
+      "sells": 30
+    }
+  ]
+  
