@@ -2,6 +2,7 @@ import logo from '../../assets/logo.svg';
 import Menu from '../../components/Menu';
 import CartWidget from '../../components/CartWidget';
 
+
 const Header = () => {
 
   const links = [
@@ -24,7 +25,7 @@ const Header = () => {
       <nav className="navbar container">
         <a className="navbar__logo" href="/">
           <figure className="navbar__img">
-            <img src={logo} alt="" />
+            <img src="../../../public/branding/logo.webp" height={100} alt="" />
           </figure>
         </a>
         <Menu className="navbar" links={links}>

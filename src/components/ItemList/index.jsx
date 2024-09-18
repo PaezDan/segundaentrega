@@ -6,7 +6,7 @@ const ItemList = () => {
   let [ items, setItems ] = useState([]);
 
   useEffect(() => {
-      fetch('/src/data/items.json')
+      fetch('../../data/items.json')
       .then(res => res.json())
       .then(data => setItems(data))
   }, []);
